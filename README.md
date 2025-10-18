@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/share/1ck7ivs3ky/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1ck7ivs3ky/?mibextid=wwxifr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@chanu_chathu?si=673hmfonhrexxafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@chanu_chathu?si=673hmfonhrexxafe" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1CK7ivs3kY/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1ck7ivs3ky/?mibextid=wwxifr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@chanu_chathu?si=673hmfonhrexxafe](https://youtube.com/@chanu_chathu?si=673HMFoNhRExXAfE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@chanu_chathu?si=673hmfonhrexxafe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
