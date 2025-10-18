@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Chanuka Nirmal!
 
-<!--
-**Chanuka-Nirmal/Chanuka-Nirmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate student pursuing a **BICT (Bachelor of Information and Communication Technology)** degree  
+at **South Eastern University of Sri Lanka**. Currently in my **first year** and excited to learn and grow in the world of tech!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I'm Learning
+- Programming fundamentals (C, Python, Java)
+- Web development basics (HTML, CSS, JavaScript)
+- Database concepts
+- Version control with Git & GitHub
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: chanukanirmal26@gmail.com
+
+---
+
+## 🌱 Goals
+- Become a skilled full-stack developer
+- Contribute to open-source projects
+- Build and share useful applications on GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Chanuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanuka_Nirmal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanuka_Nirmal&layout=compact&theme=radical)
+
+---
+
+_Thanks for visiting my profile! Stay tuned for more updates as I continue my learning journey 🚀_
