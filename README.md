@@ -25,12 +25,4 @@ at **South Eastern University of Sri Lanka**. Currently in my **first year** and
 
 ---
 
-## 📊 GitHub Stats
-
-![Chanuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanuka_Nirmal&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanuka_Nirmal&layout=compact&theme=radical)
-
----
-
 _Thanks for visiting my profile! Stay tuned for more updates as I continue my learning journey 🚀_
